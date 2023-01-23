@@ -1,2 +1,2 @@
-# leertcode-daily-challange
+# leetcode-daily-challange
 all leetcode daily challange solutions. 
